@@ -6,29 +6,333 @@ uid: a914b505-0974-14fb-94f2-c6040404704f
 
 The calendar below provides information on the course's lecture (L) and lab (Lab) sessions.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Overview, syllabus, textbook | &nbsp; |
-| Lab1 |  {{< br >}}{{< br >}} Lecture on data collection (APEX2), reduction (SAINT and SADABS), analysis (XPREP) {{< br >}}{{< br >}} Software installation {{< br >}}{{< br >}}  | &nbsp; |
-| L2 | Structure solution (SHELXS) and introduction to XP | &nbsp; |
-| Lab2 |  {{< br >}}{{< br >}} Solving your first structure {{< br >}}{{< br >}} Learn the use of SHELXS, XP, and SHELXL on a routine case {{< br >}}{{< br >}}  | &nbsp; |
-| L3 |  {{< br >}}{{< br >}} Refinement with SHELXL {{< br >}}{{< br >}} Hydrogen atoms {{< br >}}{{< br >}}  | &nbsp; |
-| Lab3 | Hydrogen atoms (cont.) | Problems due |
-| L4 | Atom type assignment | &nbsp; |
-| Lab4 | Atom type ambiguities | Problems due |
-| L5 | Disorder | &nbsp; |
-| Lab5 | Refinement of disorder on not so difficult examples | Problems due |
-| L6 | More on disorder | &nbsp; |
-| Lab6 | Refinement of a difficult disordered structure | Problems due |
-| L7 | Pseudo symmetry | &nbsp; |
-| Lab7 | Pseudo symmetry (cont.) | Problems due |
-| L8 | Twinning | &nbsp; |
-| Lab8 | Refinement of merohedral and pseudo-merohedral twins | Problems due |
-| L9 |  {{< br >}}{{< br >}} More on twinning {{< br >}}{{< br >}} CELL\_NOW and TWINABS {{< br >}}{{< br >}}  | &nbsp; |
-| Lab9 | Refinement of non-merohedral twins | Problems due |
-| L10 | Artefacts | &nbsp; |
-| L11 | Structure validation using PLATON | &nbsp; |
-| Lab10 | Using PLATON on our structures | Problems due |
-| L12 | What else is there? | &nbsp; |
-| L13 | Hand out final exam | Take home exam |
-| Lab11 | Discussion | Hand in final
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview, syllabus, textbook
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture on data collection (APEX2), reduction (SAINT and SADABS), analysis (XPREP)
+
+Software installation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Structure solution (SHELXS) and introduction to XP
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Solving your first structure
+
+Learn the use of SHELXS, XP, and SHELXL on a routine case
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Refinement with SHELXL
+
+Hydrogen atoms
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab3
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen atoms (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problems due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Atom type assignment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab4
+{{< tdclose >}}
+{{< tdopen >}}
+Atom type ambiguities
+{{< tdclose >}}
+{{< tdopen >}}
+Problems due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Disorder
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab5
+{{< tdclose >}}
+{{< tdopen >}}
+Refinement of disorder on not so difficult examples
+{{< tdclose >}}
+{{< tdopen >}}
+Problems due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+More on disorder
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab6
+{{< tdclose >}}
+{{< tdopen >}}
+Refinement of a difficult disordered structure
+{{< tdclose >}}
+{{< tdopen >}}
+Problems due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Pseudo symmetry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab7
+{{< tdclose >}}
+{{< tdopen >}}
+Pseudo symmetry (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problems due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Twinning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab8
+{{< tdclose >}}
+{{< tdopen >}}
+Refinement of merohedral and pseudo-merohedral twins
+{{< tdclose >}}
+{{< tdopen >}}
+Problems due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+More on twinning
+
+CELL\_NOW and TWINABS
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab9
+{{< tdclose >}}
+{{< tdopen >}}
+Refinement of non-merohedral twins
+{{< tdclose >}}
+{{< tdopen >}}
+Problems due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Artefacts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Structure validation using PLATON
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab10
+{{< tdclose >}}
+{{< tdopen >}}
+Using PLATON on our structures
+{{< tdclose >}}
+{{< tdopen >}}
+Problems due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+What else is there?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Hand out final exam
+{{< tdclose >}}
+{{< tdopen >}}
+Take home exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab11
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in final
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
